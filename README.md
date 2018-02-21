@@ -2,6 +2,10 @@
 
 # Course Agenda
 
+Create Slack and AWS Account access before proceeding further.
+Consider minimum CPU and Memory requirements for laptop.
+Good Knowledge on using VIM editor is required.
+
 #### Table of Contents
 
 1. [Overview](#overview)
