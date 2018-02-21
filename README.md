@@ -1,6 +1,27 @@
 # rebus_aws
-rebus_aws_training
-COURSE AGENDA
+
+
+# Course Agenda
+
+#### Table of Contents
+
+1. [Overview](#overview)
+2. [Module 1] (#module-1)
+3. [Setup - The basics of getting started with tolmach](#setup)
+    * [What tolmach affects](#what-tolmach-affects)
+    * [Setup requirements](#setup-requirements)
+    * [Beginning with tolmach](#beginning-with-tolmach)
+4. [Usage - Configuration options and additional functionality](#usage)
+5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
+5. [Limitations - OS compatibility, etc.](#limitations)
+6. [Development - Guide for contributing to the module](#development)
+
+## Overview
+
+AWS Boot Camp
+
+## Module 1
+
 Day 1
 Module 1: AWS Overview
 
@@ -13,6 +34,24 @@ Module 1: AWS Overview
             •    Brief review of AW S Core Services at a high level (IAM, VPC, EC2, S3, EBS, Glacier, RDS, DynamoDB)
 
 Discussion 1: Traditional Data Center migration to AWS Cloud for ABC Co. 
+
+## Setup
+
+### What tolmach affects
+
+* It involves Voice to text feature and affects the below requirements which are related to docker.
+
+* Common Implementaion will be done across manager and nodes via puppet repo Puppet-Tolmach
+    Docker Installation
+    Docker Image updates
+    Docker plugin installation for cloustor
+    Updating the environment variables via foreman
+
+
+
+rebus_aws_training
+COURSE AGENDA
+
 
 Module 2: Security Basics with AWS IAM
 
