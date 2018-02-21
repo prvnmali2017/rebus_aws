@@ -6,58 +6,32 @@
 #### Table of Contents
 
 1. [Overview](#overview)
-2. [Module 1] (#module-1)
-3. [Setup - The basics of getting started with tolmach](#setup)
-    * [What tolmach affects](#what-tolmach-affects)
-    * [Setup requirements](#setup-requirements)
-    * [Beginning with tolmach](#beginning-with-tolmach)
-4. [Usage - Configuration options and additional functionality](#usage)
-5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
-5. [Limitations - OS compatibility, etc.](#limitations)
-6. [Development - Guide for contributing to the module](#development)
+2. [Module 1 AWS Overview](#module-1)
+3. [Module 2](#module-2)
+4. [Module 3](#module-3)
+5. [Module 4](#module-4)
+6. [Module 5](#module-5)
 
 ## Overview
 
 AWS Boot Camp
 
-## Module 1
+## Module 1 AWS Overview
 
-Day 1
-Module 1: AWS Overview
-
-            •    How to become an AWS Certified Solutions Architect Associate
-            •    The evolution of AWS
-            •    Learn basic concepts about regions and availability zones
-            •    Understand how CloudFront and the AWS Content Delivery Network can be used to reduce latency
-            •    Difference between managed and unmanaged services
-            •    Learn about AW S Shared Responsibility Model
-            •    Brief review of AW S Core Services at a high level (IAM, VPC, EC2, S3, EBS, Glacier, RDS, DynamoDB)
+1. How to become an AWS Certified Solutions Architect Associate
+2. The evolution of AWS
+3. Learn basic concepts about regions and availability zones
+4. Understand how CloudFront and the AWS Content Delivery Network can be used to reduce latency
+5. Difference between managed and unmanaged services
+6. Learn about AW S Shared Responsibility Model
+7. Brief review of AW S Core Services at a high level (IAM, VPC, EC2, S3, EBS, Glacier, RDS, DynamoDB)
 
 Discussion 1: Traditional Data Center migration to AWS Cloud for ABC Co. 
 
-## Setup
+## Module 2 Security Basics with AWS IAM
 
-### What tolmach affects
-
-* It involves Voice to text feature and affects the below requirements which are related to docker.
-
-* Common Implementaion will be done across manager and nodes via puppet repo Puppet-Tolmach
-    Docker Installation
-    Docker Image updates
-    Docker plugin installation for cloustor
-    Updating the environment variables via foreman
-
-
-
-rebus_aws_training
-COURSE AGENDA
-
-
-Module 2: Security Basics with AWS IAM
-
-          •    Understand the importance of a strong security posture
-          •    Understand the basic features of Identity and Access Management (IAM) including multi-factor authentication, usernames and        
-               passwords, and permissions
+1. Understand the importance of a strong security posture
+2. Understand the basic features of Identity and Access Management (IAM) including multi-factor authentication, 3. usernames and passwords, and permissions
 
 Hands-on Lab 1: IAM Configuration
 
